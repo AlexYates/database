@@ -1,0 +1,23 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexYates/database.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/AlexYates/database/issues"
+  },
+  "homepage": "https://github.com/AlexYates/database#readme",
+  "private": true,
+  "dependencies": {
+    "@types/pouchdb": "^6.4.0",
+    "pouchdb": "^7.2.1"
+  }
+}
